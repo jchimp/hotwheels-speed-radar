@@ -1,10 +1,10 @@
-# Hotweels Speed Radar Sign
+# Hot Wheels Car Speed Radar Sign
 
 <div align="center">
   <img src="images\hotwheels-speed-radar.png" alt="description" width="200">
 </div>
 
-A quick-and-dirty speed radar built with a **Raspberry Pi 4**, an **HC-SR04 ultrasonic sensor**, and a **16×2 I2C LCD**. It measures the speed of Hotwheels cars racing down a ramp in **inches/second** and displays live speed + peak speed on the LCD.
+A quick-and-dirty speed radar built with a **Raspberry Pi 4**, an **HC-SR04 ultrasonic sensor**, and a **16×2 I2C LCD**. It measures the speed of Hot Wheels cars racing down a ramp in **inches/second** and displays live speed + peak speed on the LCD.
 
 ---
 
