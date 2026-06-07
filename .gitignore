@@ -1,0 +1,7 @@
+docs/private/
+*.local.md
+NOTES.md
+
+*.old*
+*.tmp*
+*.bak*
