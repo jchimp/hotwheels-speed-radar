@@ -4,7 +4,7 @@
   <img src="images\hotwheels-speed-radar.png" alt="description" width="200">
 </div>
 
-A quick-and-dirty speed radar built with a **Raspberry Pi 4**, an **HC-SR04 ultrasonic sensor**, and a **16×2 I2C LCD**. It measures the speed of small objects (toy cars on a ramp!) in **inches/second** and displays live speed + peak speed on the LCD.
+A quick-and-dirty speed radar built with a **Raspberry Pi 4**, an **HC-SR04 ultrasonic sensor**, and a **16×2 I2C LCD**. It measures the speed of Hotwheels cars racing down a ramp in **inches/second** and displays live speed + peak speed on the LCD.
 
 ---
 
@@ -185,4 +185,4 @@ Dist:  45.3 cm | Raw:  32.1 in/s | Avg:  28.7 in/s | Peak:  42.3 in/s
 
 ## License
 
-MIT — do whatever you want with it.
+[MIT](LICENSE) — do whatever you want with it.
